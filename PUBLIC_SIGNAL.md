@@ -1,4 +1,4 @@
-### Aegis 5-Asset Daily Positions [2026-05-07]
+### Aegis 5-Asset Daily Positions [2026-05-08]
 
 💰 TQQQ       : 25.0%
 💰 UDOW       : 20.0%
