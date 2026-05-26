@@ -1,4 +1,4 @@
-### Aegis 5-Asset Daily Positions [2026-05-25]
+### Aegis 5-Asset Daily Positions [2026-05-26]
 
 💰 DBMF(CTA)  : 50.0%
 💰 PDBC(商品)   : 50.0%
