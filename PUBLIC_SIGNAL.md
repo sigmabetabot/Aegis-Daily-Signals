@@ -1,9 +1,9 @@
-### Aegis 5-Asset Daily Positions [2026-10-01]
+### Aegis 5-Asset Daily Positions [2026-10-02]
 
 💰 TQQQ       : 25.0%
-💰 UDOW       :  5.0%
-💰 DBMF(CTA)  : 35.0%
-💰 PDBC(商品)   : 35.0%
+💰 UDOW       : 20.0%
+💰 DBMF(CTA)  : 27.5%
+💰 PDBC(商品)   : 27.5%
 
 🛡️ **末日保护操作指令**
 - **仓位**: 维持总资金约 1.5% (无则买入)
